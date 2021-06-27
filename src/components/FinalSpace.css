@@ -1,0 +1,15 @@
+.content h1{
+    text-align: center;
+}
+
+.content ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content ul div{
+    margin: 8px;
+    background-color:gold;
+    text-align: center;
+    flex: 1 1 150px;
+}
